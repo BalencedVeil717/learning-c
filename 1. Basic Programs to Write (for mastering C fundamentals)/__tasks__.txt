@@ -1,0 +1,23 @@
+1. Basic Programs to Write (for mastering C fundamentals)
+These help you get comfortable with syntax, data types, input/output, and operators:
+
+
+Print Text: Write a program that prints "HELLO FRIENDS!" or your name to get familiar with printf.
+
+Arithmetic Operations: Read two numbers and perform addition, subtraction, multiplication, division, and modulo operations.
+
+Area of Circle: Use a symbolic constant #define for π (e.g., 3.14) and calculate the area given the radius.
+
+Convert Days to Months and Days: Input total days and convert it into months (assuming 30 days/month) and leftover days.
+
+Digit Summation: Given a three-digit number, write a program to calculate the sum of its digits.
+
+Enumerated Data Types: Learn to define and use enums by creating a program that lists days of the week or months.
+
+Temperature Conversion: Convert temperature from Celsius to Fahrenheit.
+
+Simple Interest Calculator: Input principal, rate, time and calculate interest.
+
+Rupees and Paise Split: Take decimal amount as input and split into rupees and paise parts.
+
+These foundational programs solidify your understanding of variables, constants, input/output, and basic operations.

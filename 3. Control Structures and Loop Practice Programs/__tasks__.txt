@@ -1,0 +1,16 @@
+3. Control Structures and Loop Practice Programs
+
+
+Largest of Three Numbers: Use nested if-else to find the largest among three numbers.
+
+Factorial Calculation: Use loops (for, while, do-while) and recursion to compute factorial.
+
+Reverse Number: Input a number and reverse the digits using loops.
+
+Armstrong Number Check: Check if a number is an Armstrong number (sum of cubes of digits equals the number).
+
+Sum of First N Odd Numbers: Use loops to calculate the sum, with a condition to check oddness.
+
+Print Series: Use loops to print series like Fibonacci numbers, factorial sums (e.g., 1! + 2! + 3! + ...), or numeric/star patterns.
+
+These programs practice your mastery in decision making and repetition.

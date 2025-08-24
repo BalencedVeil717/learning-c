@@ -1,0 +1,12 @@
+5. Functions and Recursion Programs
+
+
+Swap Two Numbers: Using a user-defined function with pointer parameters.
+
+Prime Number Check: Write a function returning 1 if a number is prime, else 0.
+
+Factorial Using Recursion: Calculate factorial in a recursive function.
+
+Fibonacci Series: Use recursion to print Fibonacci numbers.
+
+Power Calculation: Function to calculate power of a number raised to n.

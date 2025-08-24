@@ -1,0 +1,10 @@
+8. File Management Programs
+
+
+File Reading: Open a text file and display its contents.
+
+File Writing: Write user input to a file.
+
+Using fgets(): Read lines from a file using fgets() for safer input.
+
+File Copy: Copy contents from one file to another.

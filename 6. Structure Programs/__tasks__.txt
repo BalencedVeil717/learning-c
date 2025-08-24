@@ -1,0 +1,8 @@
+6. Structure Programs
+
+
+Personal Details: Define a structure with fields for name, date of joining, and salary.
+
+Cricket Player Info: A structure with fields like player name, team name, and batting average.
+
+Array of Structures: Store multiple personal details or player info and write functions to display or modify data.

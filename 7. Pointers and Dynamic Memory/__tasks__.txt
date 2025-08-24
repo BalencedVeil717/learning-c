@@ -1,0 +1,12 @@
+7. Pointers and Dynamic Memory
+
+
+Adding Two Numbers: Use pointers to add numbers by passing their addresses to a function.
+
+Swapping Values: Swap two integers using pointers.
+
+Pointer to Pointer: Demonstrate with a simple program showing multiple levels of indirection.
+
+Dynamic Array Handling: Use malloc() to allocate memory for an array, input values, and print them.
+
+Free Memory: Demonstrate freeing memory explicitly after use.

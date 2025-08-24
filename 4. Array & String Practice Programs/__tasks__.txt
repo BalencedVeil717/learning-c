@@ -1,0 +1,18 @@
+4. Array & String Practice Programs
+
+
+Sorting: Sort an array of 10 numbers in ascending order.
+
+Find Maximum: Find the maximum element in an array.
+
+Count Odd/Even Elements: Count how many elements in the array are odd/even.
+
+Matrix Addition: Add two 2x2 matrices.
+
+Count Positive/Negative/Zero Elements: From a 3x3 matrix count how many elements fall under each category.
+
+String Copy & Compare: Write functions to copy one string to another and compare two strings.
+
+Palindrome Check: Check if a string is a palindrome.
+
+Count Vowels: Count vowels in a given string input.

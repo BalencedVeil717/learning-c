@@ -1,0 +1,15 @@
+2. Fun Programs with Jump Statements
+Jump statements like break, continue, and goto control flow in loops or switch cases. Practice with engaging examples:
+
+
+Menu-Driven Calculator (Using goto for Repetition): Create a menu for arithmetic operations that repeats until the user chooses to exit. Use goto to jump back to the menu after each calculation.
+
+Number Divisibility Check (Using break): Loop through numbers from 1 to 100 and print those divisible by 5 and 7. Use break to exit the loop once a certain count (e.g., first 10 such numbers) is reached.
+
+Character Classification Program: Read characters continuously; use break to exit when the user inputs 'q'. Inside the loop, use continue to skip processing spaces or invalid characters.
+
+Pattern Printing with Loop Control: Use nested loops for printing patterns like right-angle triangles or pyramids. Use continue to skip printing stars at certain positions to create hollow or custom shapes.
+
+Switch-Case with Break: Write a program where you input a number to print the day of the week. Use switch-case, and demonstrate the effect of omitting or including break in cases.
+
+These exercises give you a practical feel of jump statements that alter normal program flow, making your code more dynamic and responsive.
